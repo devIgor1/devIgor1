@@ -1,6 +1,10 @@
 ### Hello World!
 
-Me chamo Igor e amo estudar programação, possuo conhecimentos sobre a linguagem de Python, SQL, SQLServer, atualmente estou estudando JavaScript, HTML, CSS.
+let nome = 'Igor'
+let idade = 21
+let amor = 'programação'
+
+console.log(`Meu nome é ${nome}, tenho ${idade} anos e eu amo estudar ${amor}.`)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
