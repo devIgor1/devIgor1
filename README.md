@@ -1,11 +1,5 @@
 ### Hello World!
 
-let nome = 'Igor'
-let idade = 21
-let amor = 'programação'
-
-console.log(`Meu nome é ${nome}, tenho ${idade} anos e eu amo estudar ${amor}.`)
-
   <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
