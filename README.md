@@ -1,4 +1,4 @@
-<img href='https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif'/>
+<img a href='https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif'/>
 <h1 align="center">Opa eai, bem vindo ao meu perfil do Github!</h1>
 <h3 align="center">Meu nome é Igor e sou um desenvolvedor full-stack apaixonado por programação, IA e tecnologia em geral.</h3>
 
