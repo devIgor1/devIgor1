@@ -5,8 +5,10 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=1000&color=9A2F82&center=true&vCenter=true&width=435&lines=Opa+eai%2C+bem-vindo(a)!)](https://git.io/typing-svg)
  
+<div align='center'>
 <strong><p>Meu nome é <strong>Igor</strong> e atualmente sou desenvolvedor <strong>full-stack. </strong>Sou apaixonado em estudar, programar, tudo que envolva pensar.</strong>  <img src="https://slackmojis.com/emojis/32826-retro_sun/download" alt="party blob" width="30"></p></div>
 <hr style="border: 1px solid black;">
+</div>
 
 - Atualmente, tenho conhecimento em:
   </br>
