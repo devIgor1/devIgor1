@@ -11,7 +11,7 @@
 - Atualmente, tenho conhecimento em:
   </br>
   </br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nextjs,nodejs,postgres,prisma,react,redis,redux,regex,replit,sass,tailwind,ts,vercel,vite,mongodb,figma,firebase,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nextjs,nodejs,postgres,prisma,react,redux,regex,sass,tailwind,ts,vercel,vite,mongodb,figma,firebase,git,github,)](https://skillicons.dev)
 
 </br>
 
