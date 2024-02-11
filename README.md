@@ -3,13 +3,14 @@
 <img src="https://media.tenor.com/c9I-X7xoFOAAAAAd/retrowave-cardrive.gif" alt="Hello world" align="center"><hr style="border: 1px solid black;">  
  
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=1000&color=9A2F82&center=true&vCenter=true&width=435&lines=Opa+eai%2C+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=1000&color=9A2F82&center=true&vCenter=true&width=435&lines=Hey%2C+hello+there!)](https://git.io/typing-svg)
  
-<strong><p>Meu nome é <strong>Igor</strong> e atualmente sou desenvolvedor <strong>full-stack. </strong>Sou apaixonado em estudar, programar, tudo que envolva pensar.</strong>  <img src="https://slackmojis.com/emojis/32826-retro_sun/download" alt="party blob" width="30" align='center'></p></div>
-<hr style="border: 1px solid black;">
+<h2>The pursuit of knowledge isn't simply a hobby; it's the fire that ignites my soul.</h2> 
 
-- Tenho amplo conhecimento em:
-  </br>
+</br>
+</br>
+
+# 💻 Tech Stack
   </br>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -31,8 +32,19 @@
   
 
 </br>
+</br>
+</br>
 
-- Tenho uma rotina bem focada em meu desenvolvimento pessoal e profissional, sou totalmente dedicado pra dar tudo oque tenho em tudo que faço para alcançar meus objetivos. <br>
+# 🚀 Expertise
+</br>
+
+ <div align='center'>
+ <p>Driven by organization and discipline. As a staunch advocate for clean code, I firmly believe that clear and concise communication lays the foundation for successful teamwork.
+
+Beyond technical expertise, I'm a highly motivated individual with an insatiable appetite for problem-solving and being disciplined. My analytical mind and ability for understanding complex concepts allow me to rapidly grasp challenges and devise optimal solutions.</p>
+</div>
+
+ <br>
 
 
 <div align='center'>
@@ -40,10 +52,8 @@
 
 ## 📚 Github Status
 
-
- 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devIgor1&show_icons=true&count_private=true&hide_border=true&title_color=9A2F82&icon_color=9A2F82&text_color=9A2F82&bg_color=1F0D25" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devIgor1&show_icons=true&count_private=true&hide_border=true&title_color=9A2F82&icon_color=9A2F82&text_color=9A2F82&bg_color=1F0D25" alt="Igor Moraes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devIgor1&layout=compact&hide_border=true&title_color=9A2F82&text_color=9A2F82&bg_color=1F0D25" />
 </div>
 
