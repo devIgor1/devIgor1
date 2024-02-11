@@ -8,10 +8,27 @@
 <strong><p>Meu nome é <strong>Igor</strong> e atualmente sou desenvolvedor <strong>full-stack. </strong>Sou apaixonado em estudar, programar, tudo que envolva pensar.</strong>  <img src="https://slackmojis.com/emojis/32826-retro_sun/download" alt="party blob" width="30" align='center'></p></div>
 <hr style="border: 1px solid black;">
 
-- Atualmente, tenho conhecimento em:
+- Tenho amplo conhecimento em:
   </br>
   </br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nextjs,nodejs,postgres,prisma,react,redux,regex,sass,tailwind,ts,vite,mongodb,figma,firebase,git,github,)](https://skillicons.dev)
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/next%20-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express%20js-90EE90?style=for-the-badge&logo=express&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue%20-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  
 
 </br>
 
