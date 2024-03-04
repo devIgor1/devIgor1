@@ -50,17 +50,8 @@
 Beyond technical expertise, I'm a highly motivated individual with an insatiable appetite for problem-solving and being disciplined. My analytical mind and ability for understanding complex concepts allow me to rapidly grasp challenges and devise optimal solutions.</p>
 
 
- <br>
-
-
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=devIgor1&bg_color=228B22&color=228B22&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<hr style="border: 1px solid black;">
-<p align="center" style="color: green;">
-</p>
  
-
-
-
 # 🌐 Socials
 
 <div>
@@ -68,7 +59,6 @@ Beyond technical expertise, I'm a highly motivated individual with an insatiable
 <a href="https://www.linkedin.com/in/igor-moraes-rocha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.codedbyigor.com/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"</a>
 <a href="https://www.instagram.com/igormr6"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-
  
 </div>
 
