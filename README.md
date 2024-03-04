@@ -4,10 +4,16 @@
  
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9A2F82&center=true&vCenter=true&width=435&lines=Hey%2C+hello+there!)](https://git.io/typing-svg)
- 
+
+
+ <div align='left'>
+  
+# 👋 About Me
 <p>I'm Igor Moraes, a passionate software developer and tech enthusiast. I love studying, not only programming but everything. My pursuit of knowledge has been constant ever since I embarked on this journey in 2022. I practice every single day of my life to improve my code and also be a better developer.</p> 
 
 </br>
+
+> “If you're going to try, go all the way” — Charles Bukowski
 </br>
 
 # 💻 Tech Stack
@@ -38,16 +44,13 @@
 # 🚀 Expertise
 </br>
 
- <div align='center'>
+
  <p>Driven by organization and discipline. As a staunch advocate for clean code, I firmly believe that clear and concise communication lays the foundation for successful teamwork.
 
 Beyond technical expertise, I'm a highly motivated individual with an insatiable appetite for problem-solving and being disciplined. My analytical mind and ability for understanding complex concepts allow me to rapidly grasp challenges and devise optimal solutions.</p>
-</div>
+
 
  <br>
-
-
-<div align='center'>
 
 
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=devIgor1&bg_color=228B22&color=228B22&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -58,7 +61,7 @@ Beyond technical expertise, I'm a highly motivated individual with an insatiable
 
 
 
-# 🌐 Socials:
+# 🌐 Socials
 
 <div>
 <a href="https://whatsa.me/5521993762231"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"</a>
@@ -68,9 +71,6 @@ Beyond technical expertise, I'm a highly motivated individual with an insatiable
 
  
 </div>
-</br>
-</br>
-</br>
-</br>
 
-> “If you're going to try, go all the way” — Charles Bukowski
+</div>
+
