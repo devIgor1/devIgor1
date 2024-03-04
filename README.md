@@ -5,7 +5,7 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9A2F82&center=true&vCenter=true&width=435&lines=Hey%2C+hello+there!)](https://git.io/typing-svg)
  
-<p>I'm Igor Moraes, a passionate software developer and tech enthusiast. I love studying, not only programming but everything. My pursuit of knowledge is constant, ever since I embarked on this journey in 2022. I practice every single day of my life to improve my code and also be a better developer.</p> 
+<p>I'm Igor Moraes, a passionate software developer and tech enthusiast. I love studying, not only programming but everything. My pursuit of knowledge has been constant ever since I embarked on this journey in 2022. I practice every single day of my life to improve my code and also be a better developer.</p> 
 
 </br>
 </br>
