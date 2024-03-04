@@ -50,15 +50,6 @@ Beyond technical expertise, I'm a highly motivated individual with an insatiable
 <div align='center'>
 
 
-## 📚 Github Status
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devIgor1&show_icons=true&count_private=true&hide_border=true&title_color=9A2F82&icon_color=9A2F82&text_color=9A2F82&bg_color=1F0D25" alt="Igor Moraes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devIgor1&layout=compact&hide_border=true&title_color=9A2F82&text_color=9A2F82&bg_color=1F0D25" />
-</div>
-
-
-
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=devIgor1&bg_color=228B22&color=228B22&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr style="border: 1px solid black;">
 <p align="center" style="color: green;">
