@@ -3,9 +3,9 @@
 <img src="https://media.tenor.com/c9I-X7xoFOAAAAAd/retrowave-cardrive.gif" alt="Hello world" align="center"><hr style="border: 1px solid black;">  
  
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=1000&color=9A2F82&center=true&vCenter=true&width=435&lines=Hey%2C+hello+there!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9A2F82&center=true&vCenter=true&width=435&lines=Hey%2C+hello+there!)](https://git.io/typing-svg)
  
-<h2>I'm Igor Moraes, a passionate software developer and tech enthusiast. I love studying, not only programming but everything. My pursuit of knowledge is constant, ever since I embarked on this journey in 2022. I practice every single day of my life to improve my code and also be a better developer.</h2> 
+<p>I'm Igor Moraes, a passionate software developer and tech enthusiast. I love studying, not only programming but everything. My pursuit of knowledge is constant, ever since I embarked on this journey in 2022. I practice every single day of my life to improve my code and also be a better developer.</p> 
 
 </br>
 </br>
